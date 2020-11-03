@@ -1,0 +1,11 @@
+D:\GITKRAKEN\RepositorioLocalLenovo\Prueba1\bin\Debug\netcoreapp3.1\Prueba1.exe
+D:\GITKRAKEN\RepositorioLocalLenovo\Prueba1\bin\Debug\netcoreapp3.1\Prueba1.deps.json
+D:\GITKRAKEN\RepositorioLocalLenovo\Prueba1\bin\Debug\netcoreapp3.1\Prueba1.runtimeconfig.json
+D:\GITKRAKEN\RepositorioLocalLenovo\Prueba1\bin\Debug\netcoreapp3.1\Prueba1.runtimeconfig.dev.json
+D:\GITKRAKEN\RepositorioLocalLenovo\Prueba1\bin\Debug\netcoreapp3.1\Prueba1.dll
+D:\GITKRAKEN\RepositorioLocalLenovo\Prueba1\bin\Debug\netcoreapp3.1\Prueba1.pdb
+D:\GITKRAKEN\RepositorioLocalLenovo\Prueba1\obj\Debug\netcoreapp3.1\Prueba1.csprojAssemblyReference.cache
+D:\GITKRAKEN\RepositorioLocalLenovo\Prueba1\obj\Debug\netcoreapp3.1\Prueba1.AssemblyInfoInputs.cache
+D:\GITKRAKEN\RepositorioLocalLenovo\Prueba1\obj\Debug\netcoreapp3.1\Prueba1.AssemblyInfo.cs
+D:\GITKRAKEN\RepositorioLocalLenovo\Prueba1\obj\Debug\netcoreapp3.1\Prueba1.dll
+D:\GITKRAKEN\RepositorioLocalLenovo\Prueba1\obj\Debug\netcoreapp3.1\Prueba1.pdb
